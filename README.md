@@ -68,4 +68,5 @@ The COVID-19 data is fetched from the following APIs:
 - **React ChartJS 2**: Provides responsive and visually engaging data charts.
 
 - **Deployed Link**: 
-- https://profound-yeot-841413.netlify.app/addcontact
+
+- https://profound-yeot-841413.netlify.app/
