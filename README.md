@@ -67,4 +67,5 @@ The COVID-19 data is fetched from the following APIs:
 - **React Leaflet**: Integrates map features with interactive markers and popups.
 - **React ChartJS 2**: Provides responsive and visually engaging data charts.
 
-- **Deployed Link**: https://sshresth52contact-visuals.netlify.app/addcontact
+- **Deployed Link**: 
+- https://profound-yeot-841413.netlify.app/addcontact
